@@ -119,40 +119,31 @@ df.head()
 <p align="center" /> <img width="350" alt="image" src="https://github.com/user-attachments/assets/a6443664-f28b-422d-82ee-20d751a83a5f" />
  
 ### 📦 State-wise Total Number of Accidents
-<p align="center" /> <img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/7a3d3b61-48eb-47a2-a1d2-ef4b652440c2" />
-" />
+<p align="center" /> <img width="350" alt="image" src="https://github.com/user-attachments/assets/7a3d3b61-48eb-47a2-a1d2-ef4b652440c2" />
  
 ### 📦Percentage of died as per gender
-<p align="center" /> <img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/8cd3eb86-5c82-4380-a348-765844840361" />
-" />
+<p align="center" /> <img width="350" alt="image" src="https://github.com/user-attachments/assets/8cd3eb86-5c82-4380-a348-765844840361" />
  
 ### 📦 Number of Accidents as per Lane
-<p align="center" /> <img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/b8e5a8a6-a3e3-4969-a23b-a00fe6f8bca1" />
-" />
+<p align="center" /> <img width="350" alt="image" src="https://github.com/user-attachments/assets/b8e5a8a6-a3e3-4969-a23b-a00fe6f8bca1" />
  
 ### 📦 Number of People Killed per 1L population
-<p align="center" /> <img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/f746a032-e49d-41f6-b30a-b6283b42e323" />
-" />
+<p align="center" /> <img width="350" alt="image" src="https://github.com/user-attachments/assets/f746a032-e49d-41f6-b30a-b6283b42e323" />
  
 ### 📦 Total Sum of Accidents vs Killed People
-<p align="center" /> <img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/4878b269-8738-4a9f-baee-93ec8e855fc0" />
-" />
+<p align="center" /> <img width="350" alt="image" src="https://github.com/user-attachments/assets/4878b269-8738-4a9f-baee-93ec8e855fc0" />
  
 ### 📦 Number of People killed for each Reason
-<p align="center" /> <img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/d9f03c0c-3bfb-4076-a4b5-ca8d7b08c9e0" />
-" />
+<p align="center" /> <img width="350" alt="image" src="https://github.com/user-attachments/assets/d9f03c0c-3bfb-4076-a4b5-ca8d7b08c9e0" />
  
 ### 📦 Number of Fatal Accidents for each vehicle type
-<p align="center" /> <img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/4fa17d14-355b-4c34-a620-bbfecf887b43" />
-" />
+<p align="center" /> <img width="350" alt="image" src="https://github.com/user-attachments/assets/4fa17d14-355b-4c34-a620-bbfecf887b43" />
  
 ### 📦 Number of Accidents as per Time (Day/Night)
-<p align="center" /> <img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/9360b45b-be2c-40ce-8dac-581261be70e7" />
-" />
+<p align="center" /> <img width="350" alt="image" src="https://github.com/user-attachments/assets/9360b45b-be2c-40ce-8dac-581261be70e7" />
  
 ### 📦 Number of Accidents per Year
-<p align="center" /> <img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/76bf2671-d4c0-4e68-b52a-3745b9ebbd50" />
-" />
+<p align="center" /> <img width="350" alt="image" src="https://github.com/user-attachments/assets/76bf2671-d4c0-4e68-b52a-3745b9ebbd50" />
 
  ## 🔌 Example Use Cases
 - Identify high-risk states and time periods for targeted intervention
