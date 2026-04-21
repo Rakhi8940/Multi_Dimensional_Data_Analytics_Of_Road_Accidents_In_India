@@ -114,11 +114,9 @@ df.head()
 ## 📊 Visualizations
 ### 📦 State/UT-wise Total Number of Road Accidents 
 <p align="center" /> <img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/7218856c-8293-443b-9b4d-f50651e49c8a" />
-" />
  
 ### 📦 Mean Accidents per 1L population each year
-<p align="center" /> <img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/a6443664-f28b-422d-82ee-20d751a83a5f" />
-" />
+<p align="center" /> <img width="350" alt="image" src="https://github.com/user-attachments/assets/a6443664-f28b-422d-82ee-20d751a83a5f" />
  
 ### 📦 State-wise Total Number of Accidents
 <p align="center" /> <img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/7a3d3b61-48eb-47a2-a1d2-ef4b652440c2" />
