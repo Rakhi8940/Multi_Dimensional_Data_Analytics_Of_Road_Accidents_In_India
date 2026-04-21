@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://via.placeholder.com/900x300?text=Road+Accident+Analysis+Banner" width="900" alt="Road Accident Analysis Banner" style="margin: 12px 0; border-radius: 18px; background: #fff; box-shadow: 0 4px 16px rgba(0,0,0,0.12); padding: 0;"> </p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/3a99bd7c-2ab5-4bf6-887e-b039c5cf9961" width="900" alt="Road Accident Analysis Banner" style="margin: 12px 0; border-radius: 18px; background: #fff; box-shadow: 0 4px 16px rgba(0,0,0,0.12); padding: 0;"> </p>
 
 # 🚗 Road Accident Analysis
 
@@ -112,30 +112,49 @@ df.head()
 - Variation across different times of day
 
 ## 📊 Visualizations
-📦 DF - Accidents per Lakh Population
-<p align="center" /> <img width="350" height="300" alt="image" src="https://via.placeholder.com/350x300?text=DF+Accidents+per+Lakh" />
-📦 DF1 - Offender and Victim Deaths
-<p align="center" /> <img width="350" height="300" alt="image" src="https://via.placeholder.com/350x300?text=DF1+Deaths+by+Gender" />
-📦 DF1 - Deaths Analysis (Visualization 2)
-<p align="center" /> <img width="350" height="300" alt="image" src="https://via.placeholder.com/350x300?text=DF1+Deaths+Analysis+2" />
-📦 DF1 - Deaths Analysis (Visualization 3)
-<p align="center" /> <img width="350" height="300" alt="image" src="https://via.placeholder.com/350x300?text=DF1+Deaths+Analysis+3" />
-📦 DF2 - Safety Accessories Impact
-<p align="center" /> <img width="350" height="300" alt="image" src="https://via.placeholder.com/350x300?text=DF2+Safety+Accessories" />
-📦 DF3 - Accident Rate Trends (2003-2016)
-<p align="center" /> <img width="350" height="300" alt="image" src="https://via.placeholder.com/350x300?text=DF3+Accident+Trends" />
-📦 DF3 - State-wise Accident Rates
-<p align="center" /> <img width="350" height="300" alt="image" src="https://via.placeholder.com/350x300?text=DF3+State+Trends" />
-📦 DF3 - Accident Distribution by State
-<p align="center" /> <img width="350" height="300" alt="image" src="https://via.placeholder.com/350x300?text=DF3+State+Distribution" />
-📦 DF4 - Accidents by Lane Count
-<p align="center" /> <img width="350" height="300" alt="image" src="https://via.placeholder.com/350x300?text=DF4+Lanes+Analysis" />
-📦 DF5 - Accidents by Fault/Reason
-<p align="center" /> <img width="350" height="300" alt="image" src="https://via.placeholder.com/350x300?text=DF5+Fault+Analysis" />
-📦 DF6 - Accidents by Vehicle Type
-<p align="center" /> <img width="350" height="300" alt="image" src="https://via.placeholder.com/350x300?text=DF6+Vehicle+Type" />
-📦 DF7 - Accidents by Time of Occurrence
-<p align="center" /> <img width="350" height="300" alt="image" src="https://via.placeholder.com/350x300?text=DF7+Time+Analysis" />
+### 📦 State/UT-wise Total Number of Road Accidents 
+<p align="center" /> <img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/7218856c-8293-443b-9b4d-f50651e49c8a" />
+" />
+ 
+### 📦 Mean Accidents per 1L population each year
+<p align="center" /> <img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/a6443664-f28b-422d-82ee-20d751a83a5f" />
+" />
+ 
+### 📦 State-wise Total Number of Accidents
+<p align="center" /> <img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/7a3d3b61-48eb-47a2-a1d2-ef4b652440c2" />
+" />
+ 
+### 📦Percentage of died as per gender
+<p align="center" /> <img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/8cd3eb86-5c82-4380-a348-765844840361" />
+" />
+ 
+### 📦 Number of Accidents as per Lane
+<p align="center" /> <img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/b8e5a8a6-a3e3-4969-a23b-a00fe6f8bca1" />
+" />
+ 
+### 📦 Number of People Killed per 1L population
+<p align="center" /> <img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/f746a032-e49d-41f6-b30a-b6283b42e323" />
+" />
+ 
+### 📦 Total Sum of Accidents vs Killed People
+<p align="center" /> <img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/4878b269-8738-4a9f-baee-93ec8e855fc0" />
+" />
+ 
+### 📦 Number of People killed for each Reason
+<p align="center" /> <img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/d9f03c0c-3bfb-4076-a4b5-ca8d7b08c9e0" />
+" />
+ 
+### 📦 Number of Fatal Accidents for each vehicle type
+<p align="center" /> <img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/4fa17d14-355b-4c34-a620-bbfecf887b43" />
+" />
+ 
+### 📦 Number of Accidents as per Time (Day/Night)
+<p align="center" /> <img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/9360b45b-be2c-40ce-8dac-581261be70e7" />
+" />
+ 
+### 📦 Number of Accidents per Year
+<p align="center" /> <img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/76bf2671-d4c0-4e68-b52a-3745b9ebbd50" />
+" />
 
  ## 🔌 Example Use Cases
 - Identify high-risk states and time periods for targeted intervention
